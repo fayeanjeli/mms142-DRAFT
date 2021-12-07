@@ -1,4 +1,9 @@
 # mms142-groupg-2021 | DRAFT 
+
+h1 {
+font-family: "Times New Roman", Times, serif;
+font-size: 100px;
+}
 <html>
 <body>
   <h1> hahaggwgwfaf </h1>
