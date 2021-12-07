@@ -1,9 +1,12 @@
 # mms142-groupg-2021 | DRAFT 
-
+<header>
+<style>
 h1 {
 font-family: "Times New Roman", Times, serif;
 font-size: 100px;
 }
+</style>
+</header>
 <html>
 <body>
   <h1> hahaggwgwfaf </h1>
