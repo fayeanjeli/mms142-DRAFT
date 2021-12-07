@@ -1,5 +1,4 @@
 # mms142-groupg-2021 | DRAFT 
-<!DOCTYPE html>
 <html>
 <body>
 
