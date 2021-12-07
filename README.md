@@ -10,6 +10,7 @@ font-size: 50px;
 <html>
 <body>
   <h1> Hello guys, this is so basic. </h1>
+  <br>
   <h3> Turuan ko kayo? AHAHAHAHAHAHA </h3>
 <h2>JavaScript HTML DOM</h2>
 <p>Changing the HTML style:</p>
