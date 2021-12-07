@@ -2,15 +2,15 @@
 <header>
 <style>
 h1 {
-font-family: "Times New Roman", Times, serif;
-font-size: 100px;
+font-family: "Arial";
+font-size: 50px;
 }
 </style>
 </header>
 <html>
 <body>
-  <h1> hahaggwgwfaf </h1>
-  <h3> hahhahahh </h3>
+  <h1> Hello guys, this is so basic. </h1>
+  <h3> Turuan ko kayo? AHAHAHAHAHAHA </h3>
 <h2>JavaScript HTML DOM</h2>
 <p>Changing the HTML style:</p>
 
