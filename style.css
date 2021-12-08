@@ -30,7 +30,7 @@ Latest commit 62a4882 2 hours ago
 178 lines (165 sloc)  2.92 KB
    
 html,body {
-    background-color:black;
+    background-color:blue-800;
     color:black;
     font-family: helvetica, verdana, sans-serif;
     font-size:18px;
@@ -38,21 +38,7 @@ html,body {
     line-height:1.3em;
     margin:20px 20px;
     text-align:left;
-}
-.container{ 
-    background-color:blue;
-    width:1200px;
-    margin:auto;
-    height: 1620px;
-    padding: 0;
-}
-.box{ 
-    background-color:black;
-    border:line 1px 1px; 
-    width:1200px;
-    height:350px;
-    text-align:center;
-    color:blue;
+
 }
 .box h1{
     font-size:50px;
