@@ -30,7 +30,7 @@ Latest commit 62a4882 2 hours ago
 178 lines (165 sloc)  2.92 KB
    
 html,body {
-    background-color:peachpuff;
+    background-color:black;
     color:black;
     font-family: helvetica, verdana, sans-serif;
     font-size:18px;
@@ -40,7 +40,7 @@ html,body {
     text-align:left;
 }
 .container{ 
-    background-color:lemonchiffon;
+    background-color:blue;
     width:1200px;
     margin:auto;
     height: 1620px;
