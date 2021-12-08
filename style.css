@@ -8,3 +8,34 @@ html,body {
     margin:20px 20px;
     text-align:left;
 }
+
+.topnav{
+   background-color:darkslategray;
+   overflow:hidden;
+   border-radius: 10px;
+}
+
+.topnav a {
+   float:left;
+   color: white;
+   text-decoration:none;
+   text-align: center;
+   padding: 17px;
+   font-size:20px;
+   border-radius: 10px;
+}
+
+.topnav a:hover {
+  background-color:aquamarine;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: darkturquoise;
+  color: white;
+}
+
+.topnav a.active {
+  background-color: darkturquoise;
+  color: white;
+}	
