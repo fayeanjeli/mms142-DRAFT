@@ -5,8 +5,8 @@ body{
 
 .container{ 
     background-color:none;
-    width: 900px;
-    margin:10px auto;
+    width: 1000px;
+    margin: auto;
     height: auto;
     padding: 0;
 }
