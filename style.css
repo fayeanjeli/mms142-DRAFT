@@ -1,6 +1,9 @@
-h1{
+body{
     background-color:#0f0e0e;
-    color:darkturquoise;
+}
+
+
+h1{
     font-family: verdana, sans-serif;
     font-size:18px;
     color:#e0ffff;
@@ -11,8 +14,6 @@ h1{
     text-align:left;
 }
 h2{
-    background-color:#0f0e0e;
-    color:darkturquoise;
     font-family: verdana, sans-serif;
     font-size:13px;
     color:#e0ffff;
