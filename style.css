@@ -40,10 +40,9 @@ p {
   margin-left: 120px;
 }
 
- p::first-letter {
-        color: #A52A2A;
-        float: left;
-        font-size: 5em;
+ p1::first-letter {
+        color: #e3f1fc;
+        font-size: 20px;
         margin: 0 .1em 0 0;
         line-height: 0.85em;
    
