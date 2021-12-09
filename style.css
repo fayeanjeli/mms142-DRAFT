@@ -66,14 +66,12 @@ body{
    overflow:hidden;
    position: sticky;
    float: center;
-  font-size:20px;
-  font-family: arial, sans-serif;
-    text-align:center;
+  font-size:30px;
+  text-align:center;
     
 }
 
 .topnav a {
-   float:left;
    color: white;
    text-decoration:none;
    text-align: center;
