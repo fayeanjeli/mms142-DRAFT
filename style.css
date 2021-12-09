@@ -60,14 +60,6 @@ body{
     line-height:30px;
     text-align:justify;
 }
-.about {
-		display:grid;
-		grid-template-columns:1fr 1fr;
-		grid-column-gap:3em;
-		}
-.about > div {
-		padding: 5em;
-		}
 .topnav{
    background-color:none;
    overflow:hidden;
