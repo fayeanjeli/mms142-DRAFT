@@ -60,12 +60,12 @@ body{
 }
 
 .topnav a:hover {
-  background-color:aquamarine;
+  background-color:#dcdcdc;
   color: black;
 }
 
 .topnav a.active {
-  background-color: darkturquoise; 
+  background-color:#0f0e0e; 
   color: white;
 }
 
