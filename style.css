@@ -67,6 +67,12 @@ body{
   background-color:#0f0e0e; 
   color: white;
 }
+p {
+  margin-top: 25px;
+  margin-right: 10px;
+  margin-bottom: 15px;
+  margin-left: 20px;
+}
 
 .banner-video {
   width: auto;
