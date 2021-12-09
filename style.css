@@ -32,7 +32,7 @@ html,body {
 }
 
 .topnav a.active {
-  background-color: darkturquoise;
+  background-color: darkturquoise; 
   color: white;
 }
 
