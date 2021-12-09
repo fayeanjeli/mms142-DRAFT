@@ -69,7 +69,7 @@ body{
 }
 
 .banner-video {
-  width: 100%;
+  width: auto;
   height: 700px;
   margin:0 auto;
   object-fit: cover;
