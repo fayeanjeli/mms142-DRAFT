@@ -6,10 +6,10 @@ body{
 .container{ 
     background-color:none;
     width: 1200px;
-    margin: auto;
+    margin: 6px auto;
     height: auto;
     float: center;
-    padding: 10px auto;
+    padding: 5px auto;
 }
 
 .container h1{
@@ -67,8 +67,6 @@ body{
    overflow:hidden;
    position: sticky;
    float: center;
-  font-size:30px;
-  text-align:center;
     
 }
 
@@ -78,7 +76,7 @@ body{
    text-align: center;
    float:center;
    padding: 5px;
-   font-size:12px;
+   font-size:20px;
    border-radius: 5px;
 }
 
