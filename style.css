@@ -67,12 +67,14 @@ body{
    float: center;
 }
 .topnav {
+  letter-spacing: 5px;
   font-family: helvetica, sans-serif;
-    font-size:8px;
+    font-size:5px;
     color:#e3f1fc;
     font-weight:normal;
     font-style:normal;
     text-align:center;
+  
 }
 
 .topnav a {
