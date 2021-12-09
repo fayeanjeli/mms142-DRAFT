@@ -63,6 +63,7 @@ body{
    overflow:hidden;
    position: sticky;
    float: center;
+  justify-content: center;
 }
 .topnav {
   font-size:11px;
@@ -72,6 +73,7 @@ body{
     font-weight:normal;
     font-style:normal;
     text-align:center;
+    
 }
 
 .topnav a {
