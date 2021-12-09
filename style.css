@@ -5,13 +5,11 @@ body{
 
 .container{ 
     background-color:none;
-    width: 1000px;
-    margin-top: 5px;
+    width: 1200px;
     margin-right: 10px;
     margin-left: 10px;
-    margin-below: 5px;
     height: auto;
-    padding: 0;
+    padding: 0 auto;
 }
 
 .container h1{
