@@ -76,9 +76,10 @@ p {
 }
 
 .banner-video {
-  width: 100%;
+  width: 100% auto;
   height: 700px;
-  overflow: auto;
+  overflow: hidden;
+  margin: 0 auto;
   float: top;
   left: 0;
   right: 0;
