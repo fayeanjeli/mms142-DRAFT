@@ -10,6 +10,18 @@ h1{
     margin:20px 20px;
     text-align:left;
 }
+h2{
+    background-color:#0f0e0e;
+    color:darkturquoise;
+    font-family: verdana, sans-serif;
+    font-size:18px;
+    color:#e0ffff;
+    font-weight:normal;
+    font-style:normal;
+    line-height:1.3em;
+    margin:20px 20px;
+    text-align:left;
+}
 
 .topnav{
    background-color:#0f0e0e;
