@@ -23,6 +23,20 @@ h2{
     margin:20px 20px;
     text-align:left;
 }
+p {
+  margin-top: 30px;
+  margin-right: 120px;
+  margin-bottom: 30px;
+  margin-left: 120px;
+}
+
+ p::first-letter {
+        color: #A52A2A;
+        float: left;
+        font-size: 5em;
+        margin: 0 .1em 0 0;
+        line-height: 0.85em;
+   
  
 body{
     font-family: arial, sans-serif;
@@ -68,12 +82,7 @@ body{
   background-color:#0f0e0e; 
   color: white;
 }
-p {
-  margin-top: 30px;
-  margin-right: 120px;
-  margin-bottom: 30px;
-  margin-left: 120px;
-}
+
 
 .banner-video {
   width: 100%;
