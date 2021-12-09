@@ -65,9 +65,9 @@ body{
    float: center;
   justify-content: center;
 }
+
 .topnav {
   font-size:12px;
-  letter-spacing: 3px;
   font-family: helvetica, sans-serif;
     color:#e3f1fc;
     font-weight:normal;
