@@ -6,7 +6,10 @@ body{
 .container{ 
     background-color:none;
     width: 1000px;
-    margin: auto;
+    margin-top: 5px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-below: 5px;
     height: auto;
     padding: 0;
 }
@@ -48,7 +51,7 @@ body{
     text-align:center;
 }
 .container p {
-  text-align: center;
+  text-align: justify;
   margin:auto;
 }
 body{
