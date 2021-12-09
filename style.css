@@ -70,7 +70,7 @@ body{
 }
 
 .banner-video {
-  width: 70%;
+  width: 70% auto;
   height: 700px;
   object-fit: cover;
   float: top;
