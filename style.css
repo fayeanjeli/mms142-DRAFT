@@ -67,9 +67,9 @@ body{
    float: center;
 }
 .topnav {
+  font-size:7px;
   letter-spacing: 5px;
   font-family: helvetica, sans-serif;
-    font-size:5px;
     color:#e3f1fc;
     font-weight:normal;
     font-style:normal;
