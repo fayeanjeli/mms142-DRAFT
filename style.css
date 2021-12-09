@@ -5,8 +5,8 @@ body{
 
 h1{
     font-family: verdana, sans-serif;
-    font-size:20px;
-    color:#e0ffff;
+    font-size:40px;
+    color:#b0e0e6;
     font-weight:normal;
     font-style:normal;
     line-height:1.3em;
@@ -15,8 +15,19 @@ h1{
 }
 h2{
     font-family: verdana, sans-serif;
+    font-size:30px;
+    color:#1e90ff;
+    font-weight:normal;
+    font-style:normal;
+    line-height:1.3em;
+    margin:20px 20px;
+    text-align:left;
+}
+
+body{
+    font-family: arial, sans-serif;
     font-size:13px;
-    color:#e0ffff;
+    color:#e3f1fc;
     font-weight:normal;
     font-style:normal;
     line-height:1.3em;
