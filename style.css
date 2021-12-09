@@ -36,9 +36,9 @@ body{
 }
 
 .topnav{
-   background-color:#0f0e0e;
+   background-color:none;
    overflow:hidden;
-   border-radius: 10px;
+   position: fixed;
 }
 
 .topnav a {
