@@ -78,8 +78,7 @@ p {
 .banner-video {
   width: 100%;
   height: 700px;
-  overflow: visible;
-  object-fit: cover;
+  overflow: auto;
   float: top;
   left: 0;
   right: 0;
