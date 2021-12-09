@@ -1,5 +1,5 @@
 html,body {
-    background-color:black;
+    background-color:#0f0e0e;
     color:darkturquoise;
     font-family: helvetica, verdana, sans-serif;
     font-size:18px;
@@ -10,7 +10,7 @@ html,body {
 }
 
 .topnav{
-   background-color:darkslategray;
+   background-color:#0f0e0e;
    overflow:hidden;
    border-radius: 10px;
 }
