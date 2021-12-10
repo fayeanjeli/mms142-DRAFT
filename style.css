@@ -106,6 +106,16 @@ footer{
     word-wrap: break-word;
 }
 
+.references h1{
+    font-family: verdana, sans-serif;
+    font-size:40px;
+    color:#b0e0e6;
+    font-weight:normal;
+    font-style:normal;
+    line-height:1.3em;
+    text-align:center;
+}
+
 .topnav{
    text-align: center;
    display: inline-block;
