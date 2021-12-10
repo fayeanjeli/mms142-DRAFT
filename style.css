@@ -91,6 +91,7 @@ body{
   object-fit: cover;
   float: top;
   position: static;
+  overflow: hidden;
   left: 0;
   right: 0;
   top: 0;
