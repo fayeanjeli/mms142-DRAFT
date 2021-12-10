@@ -167,7 +167,7 @@ h4 {
   padding:25px 25px 25px 25px;
   border-radius: 40px;
   margin: 25px 25px 25px 25px;
-  position: static;
+  position: relative;
   float: center;
 }
 
