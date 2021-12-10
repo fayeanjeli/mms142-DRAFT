@@ -85,23 +85,11 @@ body{
 .banner {
   background-color:none;
   width: 100%;
-  height: 655px;
+  height: 670px;
   overflow: hidden;
   object-fit: cover;
   float:top;
-  position: static;
-}
-
-.banner vid {
-  width: 100%;
-  height: 655px;
-  overflow: hidden;
-  object-fit: cover;
-  float:center;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
+  position: center;
 }
 
 .footer {
@@ -130,7 +118,7 @@ h4 {
   margin:25px 25px 25px;
   border-radius: 40px;
   position: static;
-  float: center;
+  float: left;
 }
 
 .grad-box img {
