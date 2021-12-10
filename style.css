@@ -106,7 +106,7 @@ body{
   text-align: center;
   background-color: black;
 }
-
+<!--Footer Text-->
 h4 {
    font-family: verdana, sans-serif;
    font-size:10px;
@@ -116,7 +116,6 @@ h4 {
    line-height:1.3em;
    text-align:center;
 }
-
 
 .grad-box {
   background-image: linear-gradient(to bottom right, #b0e0e6, #1e90ff);
