@@ -51,8 +51,6 @@ body{
     font-style:normal;
     line-height:30px;
     text-align:justify;
-    text-indent: 50px;
-}
 }
 .topnav{
    display: inline-block;
@@ -84,13 +82,12 @@ body{
 }
 
 .banner {
-  position: absolute;
   width: 100%;
   height: 100%;
   overflow: hidden;
   margin: auto;
   float: top;
-  object-fit: fill;
+  object-fit: contain;
   left: 0;
   right: 0;
   top: 0;
