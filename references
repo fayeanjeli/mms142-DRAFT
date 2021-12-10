@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Group G</title>
+  <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body>
+
+  <div class="topnav">
+	<a href="index.html">Home  | </a> 
+	<a href="Definition.html">Defintion  | </a> 
+	<a href="Virtual-Voice-Assistants.html">Virtual Voice Assistants  | </a> 
+	<a href="Disruptive-Effect.html">Disruptive Effect  | </a> 
+	<a href="Meet-the-Voice-Assistants.html">Meet the Voice Assistants  | </a>
+  <a href="references.html">References </a>
+  </div>
+<div class="container">
+        <h1>References</h1>
+
+	<p></p>
+</div>
+  
+</body>
+<footer>
+	
+  <h4> <a><center><b> A Group Project created by Group G for MMS 142 - Internet Technologies and Web Development </b>  |  Academic Year 2021 - 2022 </a></center></h4>
+  
+</footer>
+</html>
