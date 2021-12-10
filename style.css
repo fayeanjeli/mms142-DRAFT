@@ -125,8 +125,7 @@ h4 {
   margin-right: auto;
   width: 100px;
   height: 100ppx;
-  float: top -10px;
-  position: absolute;
+  position: top center;
 }
 
 .grad-box h3{
