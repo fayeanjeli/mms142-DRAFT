@@ -32,7 +32,7 @@ body{
 }
 .container h3{
     font-family: verdana, sans-serif;
-    font-size:20%;
+    font-size:8vw;
     color:#1e90ff;
     font-weight:normal;
     font-style:normal;
@@ -42,6 +42,7 @@ body{
 .container p {
   text-align: justify;
   margin:auto;
+  font-size:2vw;
 }
 body{
     font-family: arial, sans-serif;
