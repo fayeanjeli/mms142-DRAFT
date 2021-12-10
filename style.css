@@ -88,17 +88,6 @@ body{
   object-fit: contain;
 }
 
-banner video {
-  min-width: 100%;
-  min-height: 100;
-  width: auto;
-  height: auto;
-  position: absolute;
-  top: 50%;
-  bottom: 50%;
-  transform: translate(-50%, -50%);
-}
-
 .footer {
   position: fixed;
   left: 0;
