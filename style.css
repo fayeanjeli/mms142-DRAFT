@@ -119,14 +119,14 @@ body{
   bottom: 0;
   width: 100%;
   text-align: center;
-  background-color: black;
+  background-color: none;
   overflow: hidden;
 }
-<!--Footer Text-->
+
 h4 {
    font-family: verdana, sans-serif;
    font-size:8px;
-   color:#e3f1fc;
+   color:##b0e0e6;
    font-weight:normal;
    font-style:normal;
    line-height:1.3em;
