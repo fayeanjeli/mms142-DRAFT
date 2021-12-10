@@ -7,10 +7,10 @@ body{
 .container{ 
     background-color:none;
     width: 1200px;
-    margin: 0px auto;
+    margin: auto;
     height: auto;
     float: center;
-    padding: 5px auto;
+    padding: 5px 5px 5px 5px;
 }
 
 .container h1{
