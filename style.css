@@ -54,6 +54,7 @@ body{
     text-indent: 50px;
 }
 .topnav{
+   text-align: center;
    display: inline-block;
    background-color:none;
    overflow:hidden;
