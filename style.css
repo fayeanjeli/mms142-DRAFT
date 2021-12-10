@@ -57,9 +57,10 @@ body{
    display: inline-block;
    background-color:none;
    overflow:hidden;
-   position: sticky;
+   position: static;
    float: center;
-    
+   width: fit content;
+   margin: 0 auto;
 }
 
 .topnav a {
@@ -70,8 +71,6 @@ body{
    padding: 5px;
    font-size:20px;
    border-radius: 5px;
-   width: fit content;
-   margin: 0 auto;
 }
 
 .topnav a:hover {
@@ -97,7 +96,7 @@ body{
 }
 
 .footer {
-  position: absolute;
+  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
