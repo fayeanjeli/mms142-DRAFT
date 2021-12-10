@@ -1,14 +1,14 @@
   
 body{
     background-color:#0f0e0e;
-    min-height: 100vh;
+ min-height: 100vh;
     max-width: 600px;  
 }
 
 .container{ 
     background-color:none;
     width: 1200px;
-    margin: auto;
+    margin: 0px auto;
     height: auto;
     float: center;
     padding: 5px auto;
@@ -119,7 +119,7 @@ h4 {
 
 .grad-box {
   background-image: linear-gradient(to bottom right, #b0e0e6, #1e90ff);
-  width: 520px;
+  width: 500px;
   height: 300px;
   margin:25px 25px 25px 25px;
   border-radius: 40px;
