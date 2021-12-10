@@ -105,6 +105,7 @@ body{
   width: 100%;
   text-align: center;
   background-color: black;
+  overflow: hidden;
 }
 <!--Footer Text-->
 h4 {
