@@ -39,15 +39,6 @@ body{
     line-height:1.3em;
     text-align:center;
 }
-.container h4{
-    font-family: verdana, sans-serif;
-    font-size:10px;
-    color:#e3f1fc;
-    font-weight:normal;
-    font-style:normal;
-    line-height:1.3em;
-    text-align:center;
-}
 .container p {
   text-align: justify;
   margin:auto;
@@ -91,8 +82,8 @@ body{
 }
 
 .banner-video {
-  width: 800px;
-  height: 700px;
+  width: auto;
+  height: auto;
   overflow: hidden;
   margin: auto;
   float: top;
@@ -109,4 +100,13 @@ body{
   bottom: 0;
   width: 100%;
   text-align: center;
+}
+.footer {
+   font-family: verdana, sans-serif;
+   font-size:10px;
+   color:#e3f1fc;
+   font-weight:normal;
+   font-style:normal;
+   line-height:1.3em;
+   text-align:center;
 }
