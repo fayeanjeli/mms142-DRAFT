@@ -1,12 +1,16 @@
   
 body{
     background-color:#0f0e0e;
-    max-width: 3750%;  
+    width: 90%
+    min-width: 600px;
+    max-width: 2000px;  
 }
 
 .container{ 
     background-color:none;
-    width: 7500%;
+    width: 90%;
+    min-width: 600px;
+    maximum-width: 2000p;
     margin: auto;
     height: auto;
     float: center;
