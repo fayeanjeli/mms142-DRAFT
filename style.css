@@ -150,7 +150,7 @@ footer{
 
 .banner {
   width: 100%;
-  height: 670px;
+  height: auto;
   object-fit: cover;
   float: top;
   position: static;
@@ -160,6 +160,7 @@ footer{
   top: 0;
   bottom: 0;
   z-index: -1;
+  
 }
 
 h4 {
