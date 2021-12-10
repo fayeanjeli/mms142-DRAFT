@@ -119,9 +119,9 @@ h4 {
   width: 500px;
   height: 300px;
   margin:50px 25px 25px;
-  border-radius: 40px;
+  border-radius: 35px;
   position: static;
-  float: center;
+  poisition: center;
 }
 
 .grad-box img {
