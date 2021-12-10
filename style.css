@@ -96,6 +96,7 @@ footer{
     text-align: left;
     text-indent: 0px;
     padding-top: 40px;
+    word-wrap: break-word;
 }
 
 .topnav{
