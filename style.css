@@ -10,7 +10,7 @@ body{
 .container{ 
     background-color:none;
     width: 100%;
-    margin: 2% auto;
+    margin: auto;
     height: auto;
     float: center;
 }
@@ -35,7 +35,6 @@ body{
 }
 .container h3{
     font-family: verdana, sans-serif;
-    font-size:8vw;
     color:#1e90ff;
     font-weight:normal;
     font-style:normal;
