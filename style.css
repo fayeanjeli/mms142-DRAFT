@@ -2,10 +2,16 @@
 body{
     background-color:#0f0e0e;
     width: 90%
-    min-width: 600px;
-    max-width: 2000px;  
+    margin: auto;
+    font-family: arial, sans-serif;
+    font-size:20px;
+    color:#e3f1fc;
+    font-weight:normal;
+    font-style:normal;
+    line-height:30px;
+    text-align:justify;
+    text-indent: 50px;
 }
-
 .container{ 
     background-color:none;
     width: 90%;
@@ -47,16 +53,6 @@ body{
 .container p {
   text-align: justify;
   margin:auto;
-}
-body{
-    font-family: arial, sans-serif;
-    font-size:20px;
-    color:#e3f1fc;
-    font-weight:normal;
-    font-style:normal;
-    line-height:30px;
-    text-align:justify;
-    text-indent: 50px;
 }
 .topnav{
    text-align: center;
