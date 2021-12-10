@@ -11,6 +11,7 @@ body{
     text-align:justify;
     text-indent: 20px;
     padding-bottom:40px;
+    padding-top:40px;
 }
 
 header{
@@ -26,28 +27,6 @@ header{
    overflow:hidden;
    position: fixed;
    float: center;
-}
-
-.header a {
-   color: white;
-   text-decoration:none;
-   text-align: center;
-   float:center;
-   padding: 5px;
-   font-size:20px;
-   border-radius: 5px;
-   width: fit content;
-   margin: 0 auto;
-}
-
-.header a:hover {
-  background-color:#dcdcdc;
-  color: black;
-}
-
-.header a.active {
-  background-color:#0f0e0e; 
-  color: white;
 }
 
 footer{
