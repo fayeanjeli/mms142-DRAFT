@@ -143,7 +143,7 @@ footer{
   color: white;
 }
 
-.topnav a.active {
+.topnav a:active {
   background-color:none; 
   color: #1e90ff;
 }
