@@ -81,19 +81,20 @@ body{
   color: white;
 }
 
-.banner-video {
-  width: auto;
-  height: auto;
+.banner {
+  width: 100%;
+  height: 100%;
   overflow: hidden;
   margin: auto;
   float: top;
-  object-fit: cover;
+  object-fit: contain;
   left: 0;
   right: 0;
   top: 0;
   bottom: 0;
   z-index: -1;
 }
+
 .footer {
   position: fixed;
   left: 0;
