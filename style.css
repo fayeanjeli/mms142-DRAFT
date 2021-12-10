@@ -106,6 +106,10 @@ body{
   overflow: hidden;
 }
 
+.footer h4{
+  padding: 10px auto;
+}
+
 h4 {
    font-family: verdana, sans-serif;
    font-size:10px;
