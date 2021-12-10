@@ -122,12 +122,11 @@ h4 {
   background-image: linear-gradient(to bottom right, #b0e0e6, #1e90ff);
   width: 500px;
   height: 300px;
-  margin:25px 25px 25px 25px;
   border-radius: 40px;
   position: static;
   float: left;
   padding: 15px auto;
-  vertical-align: center;
+  overflow: hidden;
 }
 
 .grad-box img {
