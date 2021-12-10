@@ -54,8 +54,7 @@ body{
   margin:auto;
 }
 .container img{
-  width: 100%;
-  height: auto;
+  float:center;
   margin: auto;
 }
 
