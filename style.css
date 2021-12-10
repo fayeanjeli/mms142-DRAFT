@@ -113,18 +113,18 @@ h4 {
 .grad-box {
   background-image: linear-gradient(to bottom right, #b0e0e6, #1e90ff);
   width: 500px;
-  height: auto;
+  height: 450px;
   margin:50px 25px 25px;
   border-radius: 40px;
   position: static;
-  float: left;
+  float: center;
 }
 
 .grad-box img {
   display: block;
-  margin: 5px auto;
+  margin: 15px auto;
   width: 100px;
-  height: 100ppx;
+  height: 100px;
   position: top center;
 }
 
