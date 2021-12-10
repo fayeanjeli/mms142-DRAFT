@@ -125,7 +125,7 @@ h4 {
   margin-right: auto;
   width: 100px;
   height: 100ppx;
-  top: -5px;
+  float: top -10px;
   position: absolute;
 }
 
