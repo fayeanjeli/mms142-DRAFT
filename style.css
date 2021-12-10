@@ -104,7 +104,8 @@ body{
   width: 100%;
   text-align: center;
 }
-.footer {
+
+h4 {
    font-family: verdana, sans-serif;
    font-size:10px;
    color:#e3f1fc;
