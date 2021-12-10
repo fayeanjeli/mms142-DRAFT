@@ -1,7 +1,7 @@
   
 body{
     background-color:#0f0e0e;
-    width: 70%;
+    width: 60%;
     margin: auto;
     font-family: arial, sans-serif;
     font-size:20px;
@@ -54,6 +54,12 @@ body{
   text-align: justify;
   margin:auto;
 }
+.container a{
+  width: 300;
+  height: 100;
+  margin: auto;
+}
+
 .topnav{
    text-align: center;
    display: inline-block;
