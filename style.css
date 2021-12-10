@@ -57,7 +57,7 @@ body{
 .references p{
     background-color:#0f0e0e;
     width: 60%;
-    margin: auto;
+    margin: 0 auto;
     font-family: arial, sans-serif;
     font-size:20px;
     color:#e3f1fc;
@@ -114,7 +114,7 @@ body{
 }
 
 .footer {
-  position: fixed;
+  position: static;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -125,7 +125,7 @@ body{
 <!--Footer Text-->
 h4 {
    font-family: verdana, sans-serif;
-   font-size:10px;
+   font-size:8px;
    color:#e3f1fc;
    font-weight:normal;
    font-style:normal;
