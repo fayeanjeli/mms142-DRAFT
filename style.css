@@ -127,6 +127,7 @@ h4 {
   position: static;
   float: left;
   padding: 15px auto;
+  vertical-align: center;
 }
 
 .grad-box img {
