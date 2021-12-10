@@ -1,6 +1,10 @@
   
 body{
     background-color:#0f0e0e;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 100px;
+    
 }
 
 .container{ 
@@ -102,9 +106,6 @@ body{
   bottom: 0;
   width: 100%;
   text-align: center;
-  background-color: black;
-  padding: 10px auto;
-  color: white;
 }
 
 h4 {
@@ -122,16 +123,15 @@ h4 {
   background-image: linear-gradient(to bottom right, #b0e0e6, #1e90ff);
   width: 500px;
   height: 300px;
+  margin:25px 25px 25px 25px;
   border-radius: 40px;
   position: static;
   float: left;
-  padding: 15px auto;
-  overflow: hidden;
 }
 
 .grad-box img {
   display: block;
-  margin-top: 3px;
+  margin-top: 15px;
   width: 100px;
   height: 100px;
   position: top center;
