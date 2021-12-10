@@ -11,6 +11,7 @@ body{
     text-align:justify;
     text-indent: 20px;
 }
+
 .container{ 
     background-color:none;
     width: 90%;
@@ -70,6 +71,7 @@ body{
     font-style:normal;
     line-height:30px;
     text-align: left;
+    text-indent: none;
 }
 
 .topnav{
@@ -102,6 +104,7 @@ body{
   background-color:#0f0e0e; 
   color: white;
 }
+
 .banner {
   width: 100%;
   height: 670px;
