@@ -104,10 +104,8 @@ body{
   text-align: center;
   background-color: black;
   overflow: hidden;
-}
-
-.footer h4{
   padding: 10px auto;
+  color: white;
 }
 
 h4 {
