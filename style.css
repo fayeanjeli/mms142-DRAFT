@@ -81,15 +81,17 @@ body{
   background-color:#0f0e0e; 
   color: white;
 }
-
 .banner {
-  background-color:none;
   width: 100%;
   height: 670px;
   overflow: hidden;
   object-fit: cover;
   float:top;
   position: center;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
 }
 
 .footer {
