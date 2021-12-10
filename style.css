@@ -144,13 +144,13 @@ footer{
   z-index: -1;
 }
 
-.footerprev {
+.footer {
   position: static;
   left: 0;
   bottom: 0;
   width: 100%;
   text-align: center;
-  background-color: none;
+  background-color: #0f0e0e;
   overflow: hidden;
 }
 
