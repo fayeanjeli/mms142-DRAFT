@@ -1,12 +1,12 @@
   
 body{
     background-color:#0f0e0e;
-    max-width: 600px;  
+    max-width: 3750%;  
 }
 
 .container{ 
     background-color:none;
-    width: 1200px;
+    width: 7500%;
     margin: auto;
     height: auto;
     float: center;
